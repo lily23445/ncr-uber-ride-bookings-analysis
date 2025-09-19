@@ -3,9 +3,7 @@
 This project analyzes Uber ride booking data for NCR (Delhi region).  
 The goal is to explore ride trends, cancellations, customer behavior, and payment methods using **Python (Pandas, Matplotlib, Seaborn)** and build an interactive **Tableau dashboard**.
 
----
 
-## 📂 Project Structure
 
 
 ---
