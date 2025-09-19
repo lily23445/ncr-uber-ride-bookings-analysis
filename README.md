@@ -36,7 +36,7 @@ The goal is to explore ride trends, cancellations, customer behavior, and paymen
 ## 📊 Tableau Dashboard
 
 - Open the packaged workbook here:  
-  👉 [dashboard/uber_dashboard.twbx]([dashboard/uber_dashboard.twbx](https://public.tableau.com/views/UberRidesinNCRTrendsCancellationsCustomerInsights/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+  👉 ([dashboard/uber_dashboard.twbx](https://public.tableau.com/views/UberRidesinNCRTrendsCancellationsCustomerInsights/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 
 
 ---
